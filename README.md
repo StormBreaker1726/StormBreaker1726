@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+StormBreaker1726 is my personal nickname, that I use in the development world. My real name is João Víctor, and I'm a undergraduate in Computacional Engineering in Federal University of Juiz de Fora. 
+- 🔭 I’m currently working on a Routing Vehicles problem
+- 📫 How to reach me: My official e-mail is oliveira.joao@engenharia.ufjf.br
+
+
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=StormBreaker1726&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StormBreaker1726&langs_count=5&theme=tokyonight)]()
