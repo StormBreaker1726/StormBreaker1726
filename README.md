@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-StormBreaker1726 is my personal nickname, that I use in the development world. My real name is João Víctor, and I'm a undergraduate in Computacional Engineering in Federal University of Juiz de Fora. 
+StormBreaker1726 is my personal nickname, that I use in the development world. My real name is João Víctor, and I'm a undergraduate student in Computacional Engineering in Federal University of Juiz de Fora. 
 - 🔭 I’m currently working in Routing Problems in Green Logistic
 - 🌱 I’m currently learning Computational Intelligence
 - 📫 How to reach me: My official e-mail is oliveira.joao@engenharia.ufjf.br
