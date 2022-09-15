@@ -47,10 +47,24 @@ StormBreaker1726 is my personal nickname, that I use in the development world. M
 ### Notebook
 ![image](https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white) ![image](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![image](https://img.shields.io/badge/Intel-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
 
-## Contact
+## 👨 You can find me in...
+[![homepage][1]][2] [![homepage][3]][4] [![homepage][5]][6] [![homepage][7]][8]
 
+[1]:  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[2]:  mailto:oliveira.joao@engenharia.ufjf.br
 
+[3]:  https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[4]:  https://www.youtube.com/channel/UCIfLRSeiI9FvgJoj3wW224w
+
+[5]: https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
+[6]: https://www.reddit.com/user/StormBreakerNotMuch
+
+[7]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[8]: www.linkedin.com/in/joão-víctor-de-oliveira-a40021230
+
+<!--
 ## ❤ Suport
+-->
 
 ## Statistics
 
