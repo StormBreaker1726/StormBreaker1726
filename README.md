@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 StormBreaker1726 is my personal nickname, that I use in the development world. My real name is João Víctor, and I'm a undergraduate student in Computational Science and Engineering in Federal University of Juiz de Fora. I'm interested in operational research, computational intelligence, artificial intelligence, and numerical analysis.
 - 🔭 I’m currently working in Routing Problems in Green Logistic
 - 🌱 I’m currently learning Computational Intelligence
-- 📫 How to reach me: My official e-mail is oliveira.joao@engenharia.ufjf.br
 - ⚡ Fun fact: I'm learning German (slowly)
 ## 🧰 Languages
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
