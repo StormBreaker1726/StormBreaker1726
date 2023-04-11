@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About me
 StormBreaker1726 is my personal nickname, that I use in the development world. My real name is João Víctor, and I'm a undergraduate student in Computational Science and Engineering at Federal University of Juiz de Fora. I'm interested in operational research, computational intelligence, artificial intelligence, and numerical analysis.
-- 🔭 I’m currently working in Routing Problems in Green Logistic
+- 🔭 I’m currently working in Steiner Tree Problems
 - 🌱 I’m currently learning Intelligent Computing
 - ⚡ Fun fact: I'm learning German (slowly)
 ## 🧰 Languages
